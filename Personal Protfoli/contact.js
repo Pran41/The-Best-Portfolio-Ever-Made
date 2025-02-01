@@ -17,5 +17,5 @@ function sendMail() {
       
    }
     
-   emailjs.send("service_uutoeff","template_gy1nw4q", parms);
+   emailjs.send("service_ec6v5h2","template_7lt016i", parms);
 }
